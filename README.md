@@ -1,8 +1,7 @@
-# TDY Travel — Privacy Policy Repository
+# Craft Hour — Privacy Policy Repository
 
-This repository contains the official **Privacy Policy** for the **TDY Travel** mobile application.
+This repository contains the official **Privacy Policy** for the **Craft Hour** mobile application.
 
-> **Disclaimer:** TDY Travel is an **independent, privately developed application** and is **not affiliated with, endorsed by, sponsored by, or associated with the U.S. Government, the Department of Defense (DoD), or any federal agency or military branch.** The term "TDY" (Temporary Duty) is used as a common travel industry term only.
 
 ---
 
@@ -10,7 +9,6 @@ This repository contains the official **Privacy Policy** for the **TDY Travel** 
 
 | Document | Description |
 |---|---|
-| [PRIVACY_POLICY.md](./PRIVACY_POLICY.md) | Full Privacy Policy for TDY Travel |
 
 ---
 
@@ -18,8 +16,8 @@ This repository contains the official **Privacy Policy** for the **TDY Travel** 
 
 For privacy-related questions or requests:
 
-- **Email:** privacy@tdytravel.app
-- **Website:** [www.tdytravel.app](https://www.tdytravel.app)
+- **Email:** admin@jtandmllc.com
+
 
 ---
 
@@ -27,8 +25,8 @@ For privacy-related questions or requests:
 
 | Date | Version | Summary |
 |---|---|---|
-| June 6, 2026 | 1.0 | Initial privacy policy published |
+| June 16, 2026 | 1.0 | Initial privacy policy published |
 
 ---
 
-*© 2026 TDY Travel. All rights reserved.*
+*© 2026 Craft Hour. All rights reserved.*
