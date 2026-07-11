@@ -1,7 +1,8 @@
 # Craft Hour — Privacy Policy Repository
 
-This repository contains the official **Privacy Policy** for the **Craft Hour** mobile application.
-
+This repository contains the official **Privacy Policy** for the **Craft Hour**
+mobile application — a time-tracking and pricing tool for self-employed artists
+and makers.
 
 ---
 
@@ -9,6 +10,10 @@ This repository contains the official **Privacy Policy** for the **Craft Hour** 
 
 | Document | Description |
 |---|---|
+| [Privacy Policy](PRIVACY.md) | Full privacy policy for the Craft Hour iOS app |
+
+**The short version:** Craft Hour collects no data. There is no account, no
+analytics, and no server — everything you enter stays on your device.
 
 ---
 
@@ -17,7 +22,6 @@ This repository contains the official **Privacy Policy** for the **Craft Hour** 
 For privacy-related questions or requests:
 
 - **Email:** admin@jtandmllc.com
-
 
 ---
 
@@ -29,4 +33,4 @@ For privacy-related questions or requests:
 
 ---
 
-*© 2026 Craft Hour. All rights reserved.*
+*© 2026 JT&M Software LLC. All rights reserved.*
