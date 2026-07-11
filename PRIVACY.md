@@ -61,4 +61,4 @@ If this policy changes, we will update the version posted at this page and revis
 If you have any questions about this privacy policy, contact:
 
 JT&M Software LLC
-Email: patrickbrown907@gmail.com
+Email: admin@jtandmllc.com 
